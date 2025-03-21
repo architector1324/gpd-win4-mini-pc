@@ -1,1 +1,2 @@
-V1/img/photo*
+img/photo/*
+*.FCBak
